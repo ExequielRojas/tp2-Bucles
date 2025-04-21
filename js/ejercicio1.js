@@ -13,6 +13,4 @@ while(true){
     } else {
         document.writeln("Aun no puede conducir!")
     }
-
-    break;
 }
